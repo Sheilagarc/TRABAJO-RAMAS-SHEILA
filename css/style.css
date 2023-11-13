@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.w-25 {
+    margin: auto;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.list-group-item {
+    display: flex;
+    align-items: center;
+}
+
+.checkbox {
+    margin-right: 10px;
+}
+
+.btn-danger {
+    margin-left: auto;
+}
+
